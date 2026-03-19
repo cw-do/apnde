@@ -611,7 +611,7 @@ document.addEventListener('keydown', function(e) {{
     return str(html_path)
 
 
-def run_pipeline(pdf_dir: str = "./pdf", output_dir: str = "./output") -> None:
+def run_pipeline(pdf_dir: str = "./pdf", output_dir: str = "./docs") -> None:
     """
     Run the full APNDE pipeline on all PDFs in the input directory.
     """

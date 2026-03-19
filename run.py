@@ -3,7 +3,7 @@
 APNDE Runner — Autonomous Polymer Nanocomposite Discovery Engine
 
 Usage:
-    python run.py [--pdf-dir ./pdf] [--output-dir ./output]
+    python run.py [--pdf-dir ./pdf] [--output-dir ./docs]
 """
 import argparse
 import sys
@@ -18,7 +18,7 @@ from src.pipeline import run_pipeline
 def main() -> None:
     parser = argparse.ArgumentParser(description="APNDE Pipeline Runner")
     parser.add_argument("--pdf-dir", default="./pdf", help="Directory containing input PDFs")
-    parser.add_argument("--output-dir", default="./output", help="Output directory")
+    parser.add_argument("--output-dir", default="./docs", help="Output directory")
     args = parser.parse_args()
 
     run_pipeline(pdf_dir=args.pdf_dir, output_dir=args.output_dir)

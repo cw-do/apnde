@@ -37,7 +37,7 @@ The Miner extracts structured data including:
 
 ## Example Output
 
-The `output/` directory contains results from processing 5 PNC research papers:
+The `docs/` directory contains results from processing 5 PNC research papers. It is also served as a [GitHub Pages site](https://cw-do.github.io/apnde/).
 
 | Paper | Samples | Scattering Plots | Simulations |
 |-------|---------|-------------------|-------------|
@@ -50,8 +50,8 @@ The `output/` directory contains results from processing 5 PNC research papers:
 ### Output Structure
 
 ```
-output/
-├── index.html                          # Interactive dashboard
+docs/
+├── index.html                          # Interactive dashboard (GitHub Pages root)
 ├── pipeline_summary.json               # Aggregate statistics
 ├── data/                               # Digitized I(q) vs q CSVs (28 files)
 ├── figures/                            # Extracted PDF figures
@@ -67,7 +67,7 @@ output/
 
 ### Dashboard Features
 
-Open `output/index.html` in a browser:
+Open `docs/index.html` in a browser, or visit the [live dashboard](https://cw-do.github.io/apnde/):
 
 - **Clickable stat cards** expand to show papers list, scattering plot gallery, or simulation table
 - **Per-paper sample tables** with Rg, Rg/Rg₀, conformation badges (expanded/contracted/unchanged), and property tags
@@ -103,10 +103,10 @@ MODEL_NAME=openai/gpt-4o
 
 ```bash
 source .venv/bin/activate
-python run.py --pdf-dir ./pdf --output-dir ./output
+python run.py --pdf-dir ./pdf --output-dir ./docs
 ```
 
-The pipeline processes each PDF through all three modules sequentially, then generates `output/index.html`.
+The pipeline processes each PDF through all three modules sequentially, then generates `docs/index.html`.
 
 To regenerate the HTML dashboard from existing results without re-running extraction:
 
@@ -116,11 +116,11 @@ sys.path.insert(0, '.')
 from src.pipeline import generate_index_html
 
 results = []
-for f in sorted(glob.glob('output/*_full_result.json')):
+for f in sorted(glob.glob('docs/*_full_result.json')):
     with open(f) as fh:
         results.append(json.load(fh))
 
-generate_index_html(results, 'output')
+generate_index_html(results, 'docs')
 ```
 
 ## Reference Physical Constants
