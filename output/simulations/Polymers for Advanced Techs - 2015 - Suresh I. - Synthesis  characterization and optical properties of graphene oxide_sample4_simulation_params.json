@@ -1,0 +1,21 @@
+{
+  "model": "sphere",
+  "parameters": {
+    "scale": 0.0011676396997497916,
+    "background": 0.001,
+    "sld": 4.09,
+    "sld_solvent": 1.4100000000000001,
+    "radius": 625.0
+  },
+  "q_range": {
+    "q_min_inv_angstrom": 0.001,
+    "q_max_inv_angstrom": 0.5,
+    "num_points": 200
+  },
+  "metadata": {
+    "matrix": "PS",
+    "filler": "GO",
+    "volume_fraction": 0.0011676396997497916,
+    "delta_rho_squared": 7.182399999999999e-12
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "@module": "apnde.structure",
+  "@class": "PNCComposition",
+  "matrix": {
+    "name": "deuterated polystyrene",
+    "abbreviation": "dPS",
+    "sld_per_angstrom_sq": 6.47e-06,
+    "density_g_per_cm3": null,
+    "molecular_weight_kDa": 116
+  },
+  "filler": {
+    "name": "multi-walled carbon nanotubes",
+    "abbreviation": "MWCNT",
+    "sld_per_angstrom_sq": 5.71e-06,
+    "density_g_per_cm3": 1.8,
+    "particle_size_nm": 20
+  },
+  "loading": {
+    "weight_percent": 1,
+    "volume_fraction": null
+  },
+  "thermal": {
+    "tg_celsius": null
+  },
+  "neutron_contrast": {
+    "delta_rho": -7.599999999999995e-07,
+    "delta_rho_squared": 5.775999999999993e-13,
+    "matrix_sld": 6.47e-06,
+    "filler_sld": 5.71e-06
+  },
+  "additional_properties": {
+    "Rg": 9.69
+  }
+}

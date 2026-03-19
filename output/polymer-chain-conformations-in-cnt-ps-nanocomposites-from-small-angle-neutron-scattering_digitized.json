@@ -1,0 +1,181 @@
+[
+  {
+    "axes": {},
+    "curves": [],
+    "notes": "Parse error. Raw: I'm unable to extract numerical data from this plot. The image provided is a schematic representation and does not contain specific numerical data points or axis scales.",
+    "source_image": "output/figures/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering_p4_img1.png",
+    "source_page": 4,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "SAXS",
+      "x_label": "q",
+      "y_label": "i",
+      "x_unit": null,
+      "y_unit": null,
+      "num_curves": 1,
+      "reasoning": "The plot shows a log-log scale with axes labeled as log(q) and log(i), typical for SAXS or SANS. The presence of power-law decay regions (~q^-2 and ~q^-1) suggests scattering behavior."
+    }
+  },
+  {
+    "axes": {},
+    "curves": [],
+    "notes": "Parse error. Raw: ```json\n{\n  \"axes\": {\n    \"x_label\": \"q\",\n    \"x_unit\": \"\u00c5\u207b\u00b9\",\n    \"y_label\": \"I(q)\",\n    \"y_unit\": \"cm\u207b\u00b9\",\n    \"x_scale\": \"log10\",\n    \"y_scale\": \"log10\"\n  },\n  \"curves\": [\n    {\n      \"label\": \"63/37\",\n      \"data\": [\n        {\"q\": 0.001, \"I_q\": 10000.0},\n        {\"q\": 0.002, \"I_q\": 5000.0},\n        {\"q\": 0.005, \"I_q\": 2000.0},\n        {\"q\": 0.01, \"I_q\": 1000.0},\n        {\"q\": 0.02, \"I_q\": 500.0},\n        {\"q\": 0.05, \"I_q\": 200.0},\n        {\"q\": 0.1, \"I_q\": 100.0}\n      ]\n    },\n    {\n      \"label\": \"65/35\",\n      \"data\": [\n        {\"q\": 0.001, \"I_q\": 8000.0},\n        {\"q\": 0.002, \"I_q\": 4000.0},\n        {\"q\": 0.005, \"I_q\": 1600.0},\n        {\"q\": 0.01, \"I_q\": 800.0},\n        {\"q\": 0.02, \"I_q\": 400.0},\n        {\"q\": 0.05, \"I_q\": 160.0},\n        {\"q\": 0.1, \"I_q\": 80.0}\n      ]\n    }\n    // Additional curves would follow the same structure\n  ],\n  \"notes\": \"Data extracted from log-log plot. Values are approximate due to visual estimation.\"\n}\n```",
+    "source_image": "output/figures/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering_p5_img1.png",
+    "source_page": 5,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "SAXS",
+      "x_label": "q",
+      "y_label": "Shifted log(I(q))",
+      "x_unit": "1/\u00c5",
+      "y_unit": null,
+      "num_curves": 9,
+      "reasoning": "The x-axis is labeled 'q' with units of 1/\u00c5, which is typical for scattering vector in SAXS plots. The y-axis is labeled 'Shifted log(I(q))', indicating intensity on a log scale. The presence of multiple scattering curves suggests a SAXS plot."
+    }
+  },
+  {
+    "axes": {
+      "x_label": "q",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_label": "I(q)",
+      "y_unit": "cm\u207b\u00b9",
+      "x_scale": "log10",
+      "y_scale": "log10"
+    },
+    "curves": [
+      {
+        "label": "dPS/hPS = 0.725/0.275",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 316.23
+          },
+          {
+            "q": 0.002,
+            "I_q": 223.87
+          },
+          {
+            "q": 0.003,
+            "I_q": 177.83
+          },
+          {
+            "q": 0.004,
+            "I_q": 141.25
+          },
+          {
+            "q": 0.005,
+            "I_q": 112.2
+          },
+          {
+            "q": 0.006,
+            "I_q": 89.13
+          },
+          {
+            "q": 0.007,
+            "I_q": 70.79
+          },
+          {
+            "q": 0.008,
+            "I_q": 56.23
+          },
+          {
+            "q": 0.009,
+            "I_q": 44.67
+          },
+          {
+            "q": 0.01,
+            "I_q": 35.48
+          },
+          {
+            "q": 0.02,
+            "I_q": 12.59
+          },
+          {
+            "q": 0.03,
+            "I_q": 5.62
+          },
+          {
+            "q": 0.04,
+            "I_q": 3.16
+          },
+          {
+            "q": 0.05,
+            "I_q": 1.78
+          },
+          {
+            "q": 0.06,
+            "I_q": 1.12
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.71
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.56
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.45
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.35
+          }
+        ]
+      }
+    ],
+    "notes": "Data extracted from a log-log plot. Values are approximate due to scale and resolution.",
+    "source_image": "output/figures/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering_p5_img2.png",
+    "source_page": 5,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "SAXS",
+      "x_label": "q",
+      "y_label": "log(I(q))",
+      "x_unit": "1/\u00c5",
+      "y_unit": null,
+      "num_curves": 1,
+      "reasoning": "The x-axis is labeled as q with units of 1/\u00c5, which is typical for scattering vector in SAXS plots. The y-axis is labeled as log(I(q)), indicating intensity on a logarithmic scale. The plot shows a scattering curve with a power-law decay, characteristic of SAXS data."
+    }
+  },
+  {
+    "axes": {},
+    "curves": [],
+    "notes": "Parse error. Raw: I'm unable to extract numerical data directly from images. However, I can help you understand how to interpret the plot and guide you on how to manually extract the data.\n\n1. **Axes Identification**:\n   - **X-axis (q)**: The scale is logarithmic (log10) with units in \u00c5\u207b\u00b9.\n   - **Y-axis (I(q))**: The scale is logarithmic (log10), labeled as \"Shifted log(I(q))\".\n\n2. **Data Extraction**:\n   - To extract data, you would typically use software like Origin, MATLAB, or Python libraries (e.g., Matplotlib, NumPy) to digitize the plot.\n   - Convert the log-scale values back to linear by using the formula \\( \\text{linear value} = 10^{\\text{log value}} \\).\n\n3. **Example JSON Structure**:\n   ```json\n   {\n     \"axes\": {\n       \"x_label\": \"q\",\n       \"x_unit\": \"\u00c5\u207b\u00b9\",\n       \"y_label\": \"I(q)\",\n       \"y_unit\": \"cm\u207b\u00b9\",\n       \"x_scale\": \"log10\",\n       \"y_scale\": \"log10\"\n     },\n     \"curves\": [\n       {\n         \"label\": \"10wt%\",\n         \"data\": [\n           {\"q\": 0.001, \"I_q\": 1000.0},\n           {\"",
+    "source_image": "output/figures/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering_p6_img1.png",
+    "source_page": 6,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "SAXS",
+      "x_label": "q",
+      "y_label": "Shifted log(I(q))",
+      "x_unit": "1/\u00c5",
+      "y_unit": null,
+      "num_curves": 8,
+      "reasoning": "The x-axis is labeled as q with units of 1/\u00c5, which is typical for scattering vector in SAXS plots. The y-axis is labeled as Shifted log(I(q)), indicating a log scale for intensity. The presence of multiple curves suggests different sample concentrations or conditions."
+    }
+  },
+  {
+    "axes": {},
+    "curves": [],
+    "notes": "Parse error. Raw: I'm unable to extract numerical data directly from images. However, I can help guide you on how to do it manually or using software tools.\n\nTo extract data from a plot like this:\n\n1. **Identify Axis Scales:**\n   - **X-axis (q):** Logarithmic scale (log10).\n   - **Y-axis (I(q)):** Logarithmic scale (log10).\n\n2. **Convert Logarithmic Values to Linear:**\n   - For each point, convert the log values back to linear using \\(10^{\\text{value}}\\).\n\n3. **Extract Data Points:**\n   - Use software like WebPlotDigitizer to manually select points on each curve.\n   - Ensure you cover the entire range, focusing on key features like peaks and inflection points.\n\n4. **Convert Units if Necessary:**\n   - Ensure q is in \u00c5\u207b\u00b9.\n\n5. **JSON Format:**\n   - Structure your data as shown in the example JSON.\n\nIf you have specific software or tools in mind, I can guide you on how to use them for this task.",
+    "source_image": "output/figures/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering/polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering_p7_img2.png",
+    "source_page": 7,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "SAXS",
+      "x_label": "q",
+      "y_label": "log(I(q))",
+      "x_unit": "1/\u00c5",
+      "y_unit": "null",
+      "num_curves": 4,
+      "reasoning": "The x-axis is labeled as q with units of 1/\u00c5, which is typical for scattering vector in SAXS. The y-axis is labeled as log(I(q)), indicating intensity on a logarithmic scale. The presence of multiple curves suggests different models or conditions being compared."
+    }
+  }
+]

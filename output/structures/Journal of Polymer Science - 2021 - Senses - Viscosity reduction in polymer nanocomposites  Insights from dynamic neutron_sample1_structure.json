@@ -1,0 +1,30 @@
+{
+  "@module": "apnde.structure",
+  "@class": "PNCComposition",
+  "matrix": {
+    "name": "polystyrene",
+    "abbreviation": "PS",
+    "sld_per_angstrom_sq": 1.41e-06,
+    "density_g_per_cm3": 1.05,
+    "molecular_weight_kDa": null
+  },
+  "filler": {
+    "name": "crosslinked polystyrene nanoparticles",
+    "abbreviation": "PS NPs",
+    "sld_per_angstrom_sq": null,
+    "density_g_per_cm3": null,
+    "particle_size_nm": 3.5
+  },
+  "loading": {
+    "weight_percent": null,
+    "volume_fraction": null
+  },
+  "thermal": {
+    "tg_celsius": null
+  },
+  "neutron_contrast": null,
+  "additional_properties": {
+    "viscosity_reduction": "observed",
+    "system": "athermal"
+  }
+}

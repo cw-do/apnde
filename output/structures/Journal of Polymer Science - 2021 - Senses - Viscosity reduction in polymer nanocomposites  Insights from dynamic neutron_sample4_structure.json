@@ -1,0 +1,35 @@
+{
+  "@module": "apnde.structure",
+  "@class": "PNCComposition",
+  "matrix": {
+    "name": "polyethylene oxide",
+    "abbreviation": "PEO",
+    "sld_per_angstrom_sq": 6.4e-07,
+    "density_g_per_cm3": 1.21,
+    "molecular_weight_kDa": null
+  },
+  "filler": {
+    "name": "silicon dioxide",
+    "abbreviation": "SiO2",
+    "sld_per_angstrom_sq": 3.48e-06,
+    "density_g_per_cm3": 2.2,
+    "particle_size_nm": null
+  },
+  "loading": {
+    "weight_percent": null,
+    "volume_fraction": null
+  },
+  "thermal": {
+    "tg_celsius": null
+  },
+  "neutron_contrast": {
+    "delta_rho": 2.84e-06,
+    "delta_rho_squared": 8.065599999999999e-12,
+    "matrix_sld": 6.4e-07,
+    "filler_sld": 3.48e-06
+  },
+  "additional_properties": {
+    "reinforcement": "observed",
+    "system": "attractive"
+  }
+}

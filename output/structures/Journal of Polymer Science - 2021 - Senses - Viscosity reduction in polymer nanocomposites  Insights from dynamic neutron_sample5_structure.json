@@ -1,0 +1,31 @@
+{
+  "@module": "apnde.structure",
+  "@class": "PNCComposition",
+  "matrix": {
+    "name": "polyethylene oxide",
+    "abbreviation": "PEO",
+    "sld_per_angstrom_sq": 6.4e-07,
+    "density_g_per_cm3": 1.21,
+    "molecular_weight_kDa": null
+  },
+  "filler": {
+    "name": "silicon dioxide coated with polymethyl methacrylate",
+    "abbreviation": "SiO2-PMMA",
+    "sld_per_angstrom_sq": null,
+    "density_g_per_cm3": null,
+    "particle_size_nm": null
+  },
+  "loading": {
+    "weight_percent": null,
+    "volume_fraction": null
+  },
+  "thermal": {
+    "tg_celsius": null
+  },
+  "neutron_contrast": null,
+  "additional_properties": {
+    "viscosity_reduction": "observed below PMMA Tg",
+    "reinforcement": "observed above PMMA Tg",
+    "system": "athermal"
+  }
+}

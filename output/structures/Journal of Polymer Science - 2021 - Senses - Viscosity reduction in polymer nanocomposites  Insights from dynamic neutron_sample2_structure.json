@@ -1,0 +1,31 @@
+{
+  "@module": "apnde.structure",
+  "@class": "PNCComposition",
+  "matrix": {
+    "name": "polyethylene oxide",
+    "abbreviation": "PEO",
+    "sld_per_angstrom_sq": 6.4e-07,
+    "density_g_per_cm3": 1.21,
+    "molecular_weight_kDa": 35
+  },
+  "filler": {
+    "name": "gold nanoparticles",
+    "abbreviation": "Au NPs",
+    "sld_per_angstrom_sq": null,
+    "density_g_per_cm3": null,
+    "particle_size_nm": 3.5
+  },
+  "loading": {
+    "weight_percent": null,
+    "volume_fraction": 0.01
+  },
+  "thermal": {
+    "tg_celsius": null
+  },
+  "neutron_contrast": null,
+  "additional_properties": {
+    "disentanglement": "observed",
+    "viscosity_reduction": "56% lower than neat polymer",
+    "system": "athermal"
+  }
+}

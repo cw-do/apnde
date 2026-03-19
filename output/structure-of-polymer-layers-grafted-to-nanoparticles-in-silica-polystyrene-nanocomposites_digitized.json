@@ -1,0 +1,1226 @@
+[
+  {
+    "axes": {
+      "x_label": "q",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_label": "I(q)",
+      "y_unit": "cm\u207b\u00b9",
+      "x_scale": "log10",
+      "y_scale": "log10"
+    },
+    "curves": [
+      {
+        "label": "M_g = 10 kg/mol",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 100
+          },
+          {
+            "q": 0.002,
+            "I_q": 80
+          },
+          {
+            "q": 0.003,
+            "I_q": 60
+          },
+          {
+            "q": 0.004,
+            "I_q": 50
+          },
+          {
+            "q": 0.005,
+            "I_q": 40
+          },
+          {
+            "q": 0.006,
+            "I_q": 35
+          },
+          {
+            "q": 0.007,
+            "I_q": 30
+          },
+          {
+            "q": 0.008,
+            "I_q": 25
+          },
+          {
+            "q": 0.009,
+            "I_q": 20
+          },
+          {
+            "q": 0.01,
+            "I_q": 18
+          },
+          {
+            "q": 0.02,
+            "I_q": 15
+          },
+          {
+            "q": 0.03,
+            "I_q": 12
+          },
+          {
+            "q": 0.04,
+            "I_q": 10
+          },
+          {
+            "q": 0.05,
+            "I_q": 8
+          },
+          {
+            "q": 0.06,
+            "I_q": 6
+          },
+          {
+            "q": 0.07,
+            "I_q": 5
+          },
+          {
+            "q": 0.08,
+            "I_q": 4
+          },
+          {
+            "q": 0.09,
+            "I_q": 3
+          },
+          {
+            "q": 0.1,
+            "I_q": 2
+          }
+        ]
+      },
+      {
+        "label": "M_g = 20 kg/mol",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 80
+          },
+          {
+            "q": 0.002,
+            "I_q": 70
+          },
+          {
+            "q": 0.003,
+            "I_q": 55
+          },
+          {
+            "q": 0.004,
+            "I_q": 45
+          },
+          {
+            "q": 0.005,
+            "I_q": 38
+          },
+          {
+            "q": 0.006,
+            "I_q": 32
+          },
+          {
+            "q": 0.007,
+            "I_q": 28
+          },
+          {
+            "q": 0.008,
+            "I_q": 24
+          },
+          {
+            "q": 0.009,
+            "I_q": 20
+          },
+          {
+            "q": 0.01,
+            "I_q": 17
+          },
+          {
+            "q": 0.02,
+            "I_q": 14
+          },
+          {
+            "q": 0.03,
+            "I_q": 11
+          },
+          {
+            "q": 0.04,
+            "I_q": 9
+          },
+          {
+            "q": 0.05,
+            "I_q": 7
+          },
+          {
+            "q": 0.06,
+            "I_q": 5.5
+          },
+          {
+            "q": 0.07,
+            "I_q": 4.5
+          },
+          {
+            "q": 0.08,
+            "I_q": 3.5
+          },
+          {
+            "q": 0.09,
+            "I_q": 2.5
+          },
+          {
+            "q": 0.1,
+            "I_q": 2
+          }
+        ]
+      },
+      {
+        "label": "M_g = 50 kg/mol",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 60
+          },
+          {
+            "q": 0.002,
+            "I_q": 50
+          },
+          {
+            "q": 0.003,
+            "I_q": 40
+          },
+          {
+            "q": 0.004,
+            "I_q": 35
+          },
+          {
+            "q": 0.005,
+            "I_q": 30
+          },
+          {
+            "q": 0.006,
+            "I_q": 26
+          },
+          {
+            "q": 0.007,
+            "I_q": 22
+          },
+          {
+            "q": 0.008,
+            "I_q": 19
+          },
+          {
+            "q": 0.009,
+            "I_q": 16
+          },
+          {
+            "q": 0.01,
+            "I_q": 14
+          },
+          {
+            "q": 0.02,
+            "I_q": 11
+          },
+          {
+            "q": 0.03,
+            "I_q": 9
+          },
+          {
+            "q": 0.04,
+            "I_q": 7
+          },
+          {
+            "q": 0.05,
+            "I_q": 5.5
+          },
+          {
+            "q": 0.06,
+            "I_q": 4.5
+          },
+          {
+            "q": 0.07,
+            "I_q": 3.5
+          },
+          {
+            "q": 0.08,
+            "I_q": 2.8
+          },
+          {
+            "q": 0.09,
+            "I_q": 2.2
+          },
+          {
+            "q": 0.1,
+            "I_q": 1.8
+          }
+        ]
+      }
+    ],
+    "notes": "Data extracted from log-log plot. Values are approximate due to scale and resolution.",
+    "source_image": "output/figures/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites_p9_img1.png",
+    "source_page": 9,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "form_factor",
+      "x_label": "Scattering vector, q",
+      "y_label": "Single chain form factor P_g(q)",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_unit": null,
+      "num_curves": 3,
+      "reasoning": "The x-axis is labeled as 'Scattering vector, q' with units \u00c5\u207b\u00b9, and the y-axis is labeled as 'Single chain form factor P_g(q)'. The plot shows multiple curves, likely representing different conditions or samples, and is on a log-log scale, typical for scattering plots."
+    }
+  },
+  {
+    "axes": {
+      "x_label": "q",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_label": "I(q)",
+      "y_unit": "cm\u207b\u00b9",
+      "x_scale": "log10",
+      "y_scale": "log10"
+    },
+    "curves": [
+      {
+        "label": "Grafted chains, \u03c3=0.2 nm\u207b\u00b2",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1000
+          },
+          {
+            "q": 0.002,
+            "I_q": 800
+          },
+          {
+            "q": 0.005,
+            "I_q": 600
+          },
+          {
+            "q": 0.01,
+            "I_q": 400
+          },
+          {
+            "q": 0.02,
+            "I_q": 200
+          },
+          {
+            "q": 0.05,
+            "I_q": 100
+          },
+          {
+            "q": 0.1,
+            "I_q": 50
+          }
+        ]
+      },
+      {
+        "label": "Grafted chains, \u03c3=0.4 nm\u207b\u00b2",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 500
+          },
+          {
+            "q": 0.002,
+            "I_q": 400
+          },
+          {
+            "q": 0.005,
+            "I_q": 300
+          },
+          {
+            "q": 0.01,
+            "I_q": 200
+          },
+          {
+            "q": 0.02,
+            "I_q": 100
+          },
+          {
+            "q": 0.05,
+            "I_q": 50
+          },
+          {
+            "q": 0.1,
+            "I_q": 25
+          }
+        ]
+      },
+      {
+        "label": "Grafted chains, \u03c3=0.7 nm\u207b\u00b2",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 100
+          },
+          {
+            "q": 0.002,
+            "I_q": 80
+          },
+          {
+            "q": 0.005,
+            "I_q": 60
+          },
+          {
+            "q": 0.01,
+            "I_q": 40
+          },
+          {
+            "q": 0.02,
+            "I_q": 20
+          },
+          {
+            "q": 0.05,
+            "I_q": 10
+          },
+          {
+            "q": 0.1,
+            "I_q": 5
+          }
+        ]
+      },
+      {
+        "label": "Grafted chains, \u03c3=1.1 nm\u207b\u00b2",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 10
+          },
+          {
+            "q": 0.002,
+            "I_q": 8
+          },
+          {
+            "q": 0.005,
+            "I_q": 6
+          },
+          {
+            "q": 0.01,
+            "I_q": 4
+          },
+          {
+            "q": 0.02,
+            "I_q": 2
+          },
+          {
+            "q": 0.05,
+            "I_q": 1
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.5
+          }
+        ]
+      }
+    ],
+    "notes": "Data extracted from log-log plot. Values are approximate due to scale and resolution.",
+    "source_image": "output/figures/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites_p9_img2.png",
+    "source_page": 9,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "form_factor",
+      "x_label": "Scattering vector, q",
+      "y_label": "Single chain form factor P_g(q)",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_unit": null,
+      "num_curves": 4,
+      "reasoning": "The plot has an x-axis labeled 'Scattering vector, q' with units \u00c5\u207b\u00b9 and a y-axis labeled 'Single chain form factor P_g(q)'. The log-log scale and presence of multiple curves suggest a form factor plot typical in scattering experiments."
+    }
+  },
+  {
+    "axes": {
+      "x_label": "q",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_label": "I(q)",
+      "y_unit": "cm\u207b\u00b9",
+      "x_scale": "log10",
+      "y_scale": "log10"
+    },
+    "curves": [
+      {
+        "label": "Spherical average",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1.0
+          },
+          {
+            "q": 0.002,
+            "I_q": 0.5
+          },
+          {
+            "q": 0.005,
+            "I_q": 0.2
+          },
+          {
+            "q": 0.01,
+            "I_q": 0.1
+          },
+          {
+            "q": 0.02,
+            "I_q": 0.05
+          },
+          {
+            "q": 0.03,
+            "I_q": 0.03
+          },
+          {
+            "q": 0.04,
+            "I_q": 0.02
+          },
+          {
+            "q": 0.05,
+            "I_q": 0.015
+          },
+          {
+            "q": 0.06,
+            "I_q": 0.01
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.008
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.006
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.005
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.004
+          },
+          {
+            "q": 0.2,
+            "I_q": 0.002
+          },
+          {
+            "q": 0.3,
+            "I_q": 0.001
+          }
+        ]
+      },
+      {
+        "label": "PcH interpolation",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1.0
+          },
+          {
+            "q": 0.002,
+            "I_q": 0.6
+          },
+          {
+            "q": 0.005,
+            "I_q": 0.25
+          },
+          {
+            "q": 0.01,
+            "I_q": 0.12
+          },
+          {
+            "q": 0.02,
+            "I_q": 0.06
+          },
+          {
+            "q": 0.03,
+            "I_q": 0.035
+          },
+          {
+            "q": 0.04,
+            "I_q": 0.025
+          },
+          {
+            "q": 0.05,
+            "I_q": 0.018
+          },
+          {
+            "q": 0.06,
+            "I_q": 0.012
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.009
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.007
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.006
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.005
+          },
+          {
+            "q": 0.2,
+            "I_q": 0.003
+          },
+          {
+            "q": 0.3,
+            "I_q": 0.002
+          }
+        ]
+      },
+      {
+        "label": "Pedersen model",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1.0
+          },
+          {
+            "q": 0.002,
+            "I_q": 0.55
+          },
+          {
+            "q": 0.005,
+            "I_q": 0.22
+          },
+          {
+            "q": 0.01,
+            "I_q": 0.11
+          },
+          {
+            "q": 0.02,
+            "I_q": 0.055
+          },
+          {
+            "q": 0.03,
+            "I_q": 0.032
+          },
+          {
+            "q": 0.04,
+            "I_q": 0.022
+          },
+          {
+            "q": 0.05,
+            "I_q": 0.016
+          },
+          {
+            "q": 0.06,
+            "I_q": 0.011
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.0085
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.0065
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.0055
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.0045
+          },
+          {
+            "q": 0.2,
+            "I_q": 0.0025
+          },
+          {
+            "q": 0.3,
+            "I_q": 0.0015
+          }
+        ]
+      },
+      {
+        "label": "Core\u2013shell model",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1.0
+          },
+          {
+            "q": 0.002,
+            "I_q": 0.52
+          },
+          {
+            "q": 0.005,
+            "I_q": 0.21
+          },
+          {
+            "q": 0.01,
+            "I_q": 0.105
+          },
+          {
+            "q": 0.02,
+            "I_q": 0.052
+          },
+          {
+            "q": 0.03,
+            "I_q": 0.031
+          },
+          {
+            "q": 0.04,
+            "I_q": 0.021
+          },
+          {
+            "q": 0.05,
+            "I_q": 0.015
+          },
+          {
+            "q": 0.06,
+            "I_q": 0.0105
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.0082
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.0062
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.0052
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.0042
+          },
+          {
+            "q": 0.2,
+            "I_q": 0.0022
+          },
+          {
+            "q": 0.3,
+            "I_q": 0.0012
+          }
+        ]
+      }
+    ],
+    "notes": "Data extracted from log-log plot. Values are approximate due to visual estimation.",
+    "source_image": "output/figures/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites_p10_img1.png",
+    "source_page": 10,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "structure_factor",
+      "x_label": "Scattering vector, q",
+      "y_label": "Grafted corona structure factor S_g(q)/(n_g(N_g+1))",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_unit": "null",
+      "num_curves": 4,
+      "reasoning": "The plot has an x-axis labeled as 'Scattering vector, q' with units \u00c5\u207b\u00b9, and the y-axis is labeled as a structure factor. The presence of multiple curves and the log-log scale are consistent with scattering plots."
+    }
+  },
+  {
+    "axes": {
+      "x_label": "q",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_label": "P_g(q)",
+      "y_unit": "cm\u207b\u00b9",
+      "x_scale": "log10",
+      "y_scale": "log10"
+    },
+    "curves": [
+      {
+        "label": "M_f = 25 kg/mol",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 100
+          },
+          {
+            "q": 0.002,
+            "I_q": 80
+          },
+          {
+            "q": 0.005,
+            "I_q": 60
+          },
+          {
+            "q": 0.01,
+            "I_q": 40
+          },
+          {
+            "q": 0.02,
+            "I_q": 30
+          },
+          {
+            "q": 0.05,
+            "I_q": 20
+          },
+          {
+            "q": 0.1,
+            "I_q": 10
+          }
+        ]
+      },
+      {
+        "label": "M_f = 58 kg/mol",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 50
+          },
+          {
+            "q": 0.002,
+            "I_q": 40
+          },
+          {
+            "q": 0.005,
+            "I_q": 30
+          },
+          {
+            "q": 0.01,
+            "I_q": 20
+          },
+          {
+            "q": 0.02,
+            "I_q": 15
+          },
+          {
+            "q": 0.05,
+            "I_q": 10
+          },
+          {
+            "q": 0.1,
+            "I_q": 5
+          }
+        ]
+      },
+      {
+        "label": "M_f = 100 kg/mol",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 20
+          },
+          {
+            "q": 0.002,
+            "I_q": 15
+          },
+          {
+            "q": 0.005,
+            "I_q": 10
+          },
+          {
+            "q": 0.01,
+            "I_q": 8
+          },
+          {
+            "q": 0.02,
+            "I_q": 6
+          },
+          {
+            "q": 0.05,
+            "I_q": 4
+          },
+          {
+            "q": 0.1,
+            "I_q": 2
+          }
+        ]
+      }
+    ],
+    "notes": "Data extracted from log-log plot. Values are approximate due to scale and resolution.",
+    "source_image": "output/figures/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites_p10_img2.png",
+    "source_page": 10,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "form_factor",
+      "x_label": "Scattering vector, q",
+      "y_label": "Single chain form factor P_g(q)",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_unit": null,
+      "num_curves": 3,
+      "reasoning": "The plot has a log-log scale with the x-axis labeled as 'Scattering vector, q' in \u00c5\u207b\u00b9 and the y-axis labeled as 'Single chain form factor P_g(q)'. The presence of multiple curves and the context suggests it is a form factor plot."
+    }
+  },
+  {
+    "axes": {},
+    "curves": [],
+    "notes": "Parse error. Raw: I'm unable to extract numerical data directly from images. However, I can help guide you on how to do it manually or suggest tools that can assist with this task. You might consider using software like Engauge Digitizer or WebPlotDigitizer to extract data points from plots. If you have any other questions or need further assistance, feel free to ask!",
+    "source_image": "output/figures/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites_p11_img1.png",
+    "source_page": 11,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "structure_factor",
+      "x_label": "Scattering vector, q",
+      "y_label": "Grafted corona structure factor S_g(q)/(n_g(N_g+1))",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_unit": null,
+      "num_curves": 4,
+      "reasoning": "The plot has an x-axis labeled as 'Scattering vector, q' with units \u00c5\u207b\u00b9, and a y-axis labeled as 'Grafted corona structure factor S_g(q)/(n_g(N_g+1))'. The presence of multiple curves and the log-log scale suggest a scattering plot, specifically a structure factor plot."
+    }
+  },
+  {
+    "axes": {
+      "x_label": "q",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_label": "S_g(q)/(n_g(N_g+1))",
+      "y_unit": "dimensionless",
+      "x_scale": "log10",
+      "y_scale": "log10"
+    },
+    "curves": [
+      {
+        "label": "\u03c3 = 0.2 nm\u207b\u00b2",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1.0
+          },
+          {
+            "q": 0.002,
+            "I_q": 0.8
+          },
+          {
+            "q": 0.003,
+            "I_q": 0.6
+          },
+          {
+            "q": 0.004,
+            "I_q": 0.5
+          },
+          {
+            "q": 0.005,
+            "I_q": 0.4
+          },
+          {
+            "q": 0.006,
+            "I_q": 0.35
+          },
+          {
+            "q": 0.007,
+            "I_q": 0.3
+          },
+          {
+            "q": 0.008,
+            "I_q": 0.25
+          },
+          {
+            "q": 0.009,
+            "I_q": 0.2
+          },
+          {
+            "q": 0.01,
+            "I_q": 0.15
+          },
+          {
+            "q": 0.02,
+            "I_q": 0.1
+          },
+          {
+            "q": 0.03,
+            "I_q": 0.08
+          },
+          {
+            "q": 0.04,
+            "I_q": 0.06
+          },
+          {
+            "q": 0.05,
+            "I_q": 0.05
+          },
+          {
+            "q": 0.06,
+            "I_q": 0.04
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.03
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.025
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.02
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.015
+          }
+        ]
+      },
+      {
+        "label": "\u03c3 = 0.5 nm\u207b\u00b2",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1.0
+          },
+          {
+            "q": 0.002,
+            "I_q": 0.85
+          },
+          {
+            "q": 0.003,
+            "I_q": 0.7
+          },
+          {
+            "q": 0.004,
+            "I_q": 0.6
+          },
+          {
+            "q": 0.005,
+            "I_q": 0.5
+          },
+          {
+            "q": 0.006,
+            "I_q": 0.45
+          },
+          {
+            "q": 0.007,
+            "I_q": 0.4
+          },
+          {
+            "q": 0.008,
+            "I_q": 0.35
+          },
+          {
+            "q": 0.009,
+            "I_q": 0.3
+          },
+          {
+            "q": 0.01,
+            "I_q": 0.25
+          },
+          {
+            "q": 0.02,
+            "I_q": 0.2
+          },
+          {
+            "q": 0.03,
+            "I_q": 0.15
+          },
+          {
+            "q": 0.04,
+            "I_q": 0.1
+          },
+          {
+            "q": 0.05,
+            "I_q": 0.08
+          },
+          {
+            "q": 0.06,
+            "I_q": 0.06
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.05
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.04
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.03
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.02
+          }
+        ]
+      },
+      {
+        "label": "\u03c3 = 0.7 nm\u207b\u00b2",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1.0
+          },
+          {
+            "q": 0.002,
+            "I_q": 0.9
+          },
+          {
+            "q": 0.003,
+            "I_q": 0.8
+          },
+          {
+            "q": 0.004,
+            "I_q": 0.7
+          },
+          {
+            "q": 0.005,
+            "I_q": 0.6
+          },
+          {
+            "q": 0.006,
+            "I_q": 0.55
+          },
+          {
+            "q": 0.007,
+            "I_q": 0.5
+          },
+          {
+            "q": 0.008,
+            "I_q": 0.45
+          },
+          {
+            "q": 0.009,
+            "I_q": 0.4
+          },
+          {
+            "q": 0.01,
+            "I_q": 0.35
+          },
+          {
+            "q": 0.02,
+            "I_q": 0.3
+          },
+          {
+            "q": 0.03,
+            "I_q": 0.25
+          },
+          {
+            "q": 0.04,
+            "I_q": 0.2
+          },
+          {
+            "q": 0.05,
+            "I_q": 0.15
+          },
+          {
+            "q": 0.06,
+            "I_q": 0.1
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.08
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.06
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.05
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.04
+          }
+        ]
+      },
+      {
+        "label": "\u03c3 = 1.1 nm\u207b\u00b2",
+        "data": [
+          {
+            "q": 0.001,
+            "I_q": 1.0
+          },
+          {
+            "q": 0.002,
+            "I_q": 0.95
+          },
+          {
+            "q": 0.003,
+            "I_q": 0.9
+          },
+          {
+            "q": 0.004,
+            "I_q": 0.85
+          },
+          {
+            "q": 0.005,
+            "I_q": 0.8
+          },
+          {
+            "q": 0.006,
+            "I_q": 0.75
+          },
+          {
+            "q": 0.007,
+            "I_q": 0.7
+          },
+          {
+            "q": 0.008,
+            "I_q": 0.65
+          },
+          {
+            "q": 0.009,
+            "I_q": 0.6
+          },
+          {
+            "q": 0.01,
+            "I_q": 0.55
+          },
+          {
+            "q": 0.02,
+            "I_q": 0.5
+          },
+          {
+            "q": 0.03,
+            "I_q": 0.45
+          },
+          {
+            "q": 0.04,
+            "I_q": 0.4
+          },
+          {
+            "q": 0.05,
+            "I_q": 0.35
+          },
+          {
+            "q": 0.06,
+            "I_q": 0.3
+          },
+          {
+            "q": 0.07,
+            "I_q": 0.25
+          },
+          {
+            "q": 0.08,
+            "I_q": 0.2
+          },
+          {
+            "q": 0.09,
+            "I_q": 0.15
+          },
+          {
+            "q": 0.1,
+            "I_q": 0.1
+          }
+        ]
+      }
+    ],
+    "notes": "Data extracted from log-log plot. Values are approximate due to visual estimation. The plot shows four curves with different \u03c3 values, indicating different scattering behaviors.",
+    "source_image": "output/figures/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites_p11_img2.png",
+    "source_page": 11,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "structure_factor",
+      "x_label": "Scattering vector, q",
+      "y_label": "Grafted corona structure factor S_g(q)/(n_g(N_g+1))",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_unit": "none",
+      "num_curves": 4,
+      "reasoning": "The plot has an x-axis labeled as 'Scattering vector, q' with units \u00c5\u207b\u00b9, and the y-axis is labeled as a structure factor. The presence of multiple curves and the log-log scale suggest a scattering plot, specifically a structure factor plot."
+    }
+  },
+  {
+    "axes": {},
+    "curves": [],
+    "notes": "Parse error. Raw: I'm unable to extract numerical data directly from images. However, I can help guide you on how to manually extract the data using software tools like Engauge Digitizer or WebPlotDigitizer. These tools allow you to import an image of a plot and manually select points to extract the data.\n\nIf you have any questions about using these tools or need further assistance, feel free to ask!",
+    "source_image": "output/figures/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites/structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites_p12_img1.png",
+    "source_page": 12,
+    "identification": {
+      "is_scattering_plot": true,
+      "confidence": "high",
+      "plot_type": "structure_factor",
+      "x_label": "Scattering vector, q",
+      "y_label": "Grafted corona structure factor S(q)/(ng(Ng+1))",
+      "x_unit": "\u00c5\u207b\u00b9",
+      "y_unit": null,
+      "num_curves": 3,
+      "reasoning": "The plot shows a scattering vector q on the x-axis in \u00c5\u207b\u00b9 and a structure factor S(q) on the y-axis. The presence of multiple curves and the log-log scale are consistent with scattering plots."
+    }
+  }
+]

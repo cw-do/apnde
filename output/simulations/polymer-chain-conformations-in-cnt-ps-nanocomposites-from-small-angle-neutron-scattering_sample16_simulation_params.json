@@ -1,0 +1,22 @@
+{
+  "model": "cylinder",
+  "parameters": {
+    "scale": 0.01,
+    "background": 0.001,
+    "sld": 5.71,
+    "sld_solvent": 6.47,
+    "radius": 100.0,
+    "length": 3000.0
+  },
+  "q_range": {
+    "q_min_inv_angstrom": 0.001,
+    "q_max_inv_angstrom": 0.5,
+    "num_points": 200
+  },
+  "metadata": {
+    "matrix": "dPS",
+    "filler": "MWCNT",
+    "volume_fraction": 0.01,
+    "delta_rho_squared": 5.775999999999993e-13
+  }
+}

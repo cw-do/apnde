@@ -1,0 +1,35 @@
+{
+  "@module": "apnde.structure",
+  "@class": "PNCComposition",
+  "matrix": {
+    "name": "polystyrene",
+    "abbreviation": "PS",
+    "sld_per_angstrom_sq": 1.41e-06,
+    "density_g_per_cm3": 1.05,
+    "molecular_weight_kDa": null
+  },
+  "filler": {
+    "name": "graphene oxide",
+    "abbreviation": "GO",
+    "sld_per_angstrom_sq": 4.09e-06,
+    "density_g_per_cm3": 1.8,
+    "particle_size_nm": 292
+  },
+  "loading": {
+    "weight_percent": 0.1,
+    "volume_fraction": 0.0005835764902042518
+  },
+  "thermal": {
+    "tg_celsius": null
+  },
+  "neutron_contrast": {
+    "delta_rho": 2.6799999999999998e-06,
+    "delta_rho_squared": 7.182399999999999e-12,
+    "matrix_sld": 1.41e-06,
+    "filler_sld": 4.09e-06
+  },
+  "additional_properties": {
+    "zeta_potential_mV": -45,
+    "conversion_percent": 72
+  }
+}

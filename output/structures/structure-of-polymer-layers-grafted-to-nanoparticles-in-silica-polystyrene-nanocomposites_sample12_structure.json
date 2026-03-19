@@ -1,0 +1,35 @@
+{
+  "@module": "apnde.structure",
+  "@class": "PNCComposition",
+  "matrix": {
+    "name": "atactic polystyrene",
+    "abbreviation": "PS",
+    "sld_per_angstrom_sq": 1.41e-06,
+    "density_g_per_cm3": 1.05,
+    "molecular_weight_kDa": 58
+  },
+  "filler": {
+    "name": "silicon dioxide",
+    "abbreviation": "SiO2",
+    "sld_per_angstrom_sq": 3.48e-06,
+    "density_g_per_cm3": 2.2,
+    "particle_size_nm": 13
+  },
+  "loading": {
+    "weight_percent": null,
+    "volume_fraction": null
+  },
+  "thermal": {
+    "tg_celsius": null
+  },
+  "neutron_contrast": {
+    "delta_rho": 2.07e-06,
+    "delta_rho_squared": 4.2849e-12,
+    "matrix_sld": 1.41e-06,
+    "filler_sld": 3.48e-06
+  },
+  "additional_properties": {
+    "grafting_density_nm2": 0.24,
+    "brush_height_nm": 27.22
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "total_papers": 5,
+  "total_samples": 44,
+  "total_plots_digitized": 21,
+  "total_simulations": 44,
+  "papers": [
+    {
+      "pdf": "Journal of Polymer Science - 2021 - Senses - Viscosity reduction in polymer nanocomposites  Insights from dynamic neutron.pdf",
+      "title": "Viscosity reduction in polymer nanocomposites: Insights from dynamic neutron and X-ray scattering",
+      "samples": 5,
+      "plots": 3,
+      "simulations": 5,
+      "error": null
+    },
+    {
+      "pdf": "Polymers for Advanced Techs - 2015 - Suresh I. - Synthesis  characterization and optical properties of graphene oxide.pdf",
+      "title": "Synthesis, characterization and optical properties of graphene oxide\u2013polystyrene nanocomposites",
+      "samples": 5,
+      "plots": 0,
+      "simulations": 5,
+      "error": null
+    },
+    {
+      "pdf": "polymer-chain-conformations-in-cnt-ps-nanocomposites-from-small-angle-neutron-scattering.pdf",
+      "title": "Polymer Chain Conformations in CNT/PS Nanocomposites from Small Angle Neutron Scattering",
+      "samples": 16,
+      "plots": 5,
+      "simulations": 16,
+      "error": null
+    },
+    {
+      "pdf": "real-space-structure-and-scattering-patterns-of-model-polymer-nanocomposites.pdf",
+      "title": "Real Space Structure and Scattering Patterns of Model Polymer Nanocomposites",
+      "samples": 5,
+      "plots": 6,
+      "simulations": 5,
+      "error": null
+    },
+    {
+      "pdf": "structure-of-polymer-layers-grafted-to-nanoparticles-in-silica-polystyrene-nanocomposites.pdf",
+      "title": "Structure of Polymer Layers Grafted to Nanoparticles in Silica\u2212Polystyrene Nanocomposites",
+      "samples": 13,
+      "plots": 7,
+      "simulations": 13,
+      "error": null
+    }
+  ]
+}

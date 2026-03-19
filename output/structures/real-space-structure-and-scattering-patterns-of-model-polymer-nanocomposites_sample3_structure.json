@@ -1,0 +1,32 @@
+{
+  "@module": "apnde.structure",
+  "@class": "PNCComposition",
+  "matrix": {
+    "name": "adsorbing homopolymers",
+    "abbreviation": null,
+    "sld_per_angstrom_sq": null,
+    "density_g_per_cm3": null,
+    "molecular_weight_kDa": null
+  },
+  "filler": {
+    "name": "hard spheres",
+    "abbreviation": null,
+    "sld_per_angstrom_sq": null,
+    "density_g_per_cm3": null,
+    "particle_size_nm": null
+  },
+  "loading": {
+    "weight_percent": null,
+    "volume_fraction": 0.36
+  },
+  "thermal": {
+    "tg_celsius": null
+  },
+  "neutron_contrast": null,
+  "additional_properties": {
+    "filler_monomer_attraction_strength": 1,
+    "filler_monomer_attraction_range": 0.25,
+    "osmotic_compressibility": "increased",
+    "bound_layer_peak": "emerged"
+  }
+}
